@@ -21,3 +21,10 @@
 - Movielens dataset is used for this project: https://grouplens.org/datasets/movielens/
  ![image](https://user-images.githubusercontent.com/103464406/217036341-043b629e-bb7e-4ff6-adb2-0cae0b60b5c2.png)
 
+## EDA:
+
+## Model:
+### Content Based filtering:
+#### Cosine similarity:
+
+### Collaborative Filtering:
