@@ -25,10 +25,24 @@
 
 ## Model:
 ### Content Based filtering:
+- Movies recommendation system is created based on similar genre or similar movie tags.
+- We calculate the cosine similarity score for all the movie titles in the dataset as per genre and tags.
+- Using TfidfVectorizer convert text column genre/tag  to feature vectors.
+- Once we have the feature matric we will calculate similarity scores across titles.
+- Create function that will take an input movie title and generate movie recommendation based on genre/tags of the input title.
 #### Cosine similarity:
 - Cosine similarity is a measure of similarity between two non-zero vectors. 
 - It is calculated as the angle between these vectors (which is also the same as their inner product).
  ![image](https://user-images.githubusercontent.com/103464406/217038040-4492c00d-5503-4069-a301-7e5366543bf2.png)
 
+![image](https://user-images.githubusercontent.com/103464406/217040611-cdbe9cb6-e241-47b4-8da0-b2f3ef9027fd.png)
+
+#### Function movie_recommender:
+- Takes as input the title of the movie for which we predict movie recommendation.
+- Find the index for the title and pick up the similarity score for that index.
+- We will then sort the score and return the top 10 movie titles with highest similarity score.
+  ![image](https://user-images.githubusercontent.com/103464406/217040966-bd09535e-dc8a-4d0b-b72e-d11c50b5c89a.png)
+- Copycat (1995)	is a crime/thriller movie and if we compare with som eof the other recommendation they also seem to belong to the same genre
+  ![image](https://user-images.githubusercontent.com/103464406/217041099-1b6836d4-8fe9-46bd-b4a4-faf7d6b935b4.png)
 
 ### Collaborative Filtering:
