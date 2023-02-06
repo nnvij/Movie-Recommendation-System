@@ -48,3 +48,9 @@
 
 
 ### Collaborative Filtering:
+
+#### Function recommendation_SVD:
+- Takes as input the userdId and the get_recommend> number of recommendations required.Default values userID=1, get_recommend =10
+- Using Singular value decomposition (SVD) model the function will predict movie recommendations and return top recommendations.
+ ![image](https://user-images.githubusercontent.com/103464406/217043062-40688304-686f-48a6-bf54-4604ce75cafa.png)
+ ![image](https://user-images.githubusercontent.com/103464406/217043186-3c02865a-8bfb-4bca-b3c1-17be08a5f007.png)
