@@ -43,7 +43,6 @@
 
 - Copycat (1995)	is a crime/thriller movie and if we compare with som eof the other recommendation they also seem to belong to the same genre
   ![image](https://user-images.githubusercontent.com/103464406/217041099-1b6836d4-8fe9-46bd-b4a4-faf7d6b935b4.png)
-  ![image](https://user-images.githubusercontent.com/103464406/217041626-155bc6eb-ac89-461d-b532-740714632b15.png)
 
 
 
