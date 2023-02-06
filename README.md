@@ -22,7 +22,19 @@
  ![image](https://user-images.githubusercontent.com/103464406/217036341-043b629e-bb7e-4ff6-adb2-0cae0b60b5c2.png)
 
 ## EDA:
+ ![image](https://user-images.githubusercontent.com/103464406/217096812-44da4bbe-82fb-4b43-9209-2b7f5d081e80.png)
 
+ ![image](https://user-images.githubusercontent.com/103464406/217096839-8238de6d-f32a-4a28-a194-6fea85052c3b.png)
+ 
+ ![image](https://user-images.githubusercontent.com/103464406/217096901-cb5bb7a6-e31c-45be-bd37-c7064e91289c.png)
+ ![image](https://user-images.githubusercontent.com/103464406/217096994-c9e587e1-ed5a-4a79-91d7-e52030c25cf6.png)
+
+ ![image](https://user-images.githubusercontent.com/103464406/217096957-502c3873-3331-4358-a66c-2061ac5d2135.png)
+ ![image](https://user-images.githubusercontent.com/103464406/217097010-c5cc6f23-1a49-4078-b326-e05808eedbbb.png)
+ 
+ ![image](https://user-images.githubusercontent.com/103464406/217097056-a35051df-b448-49a7-a17d-80249af3d04f.png)
+
+ 
 ## Model:
 ### Content Based filtering:
 - Movies recommendation system is created based on similar genre or similar movie tags.
