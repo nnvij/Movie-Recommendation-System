@@ -26,5 +26,8 @@
 ## Model:
 ### Content Based filtering:
 #### Cosine similarity:
+- Cosine similarity is a measure of similarity between two non-zero vectors. It is calculated as the angle between these vectors (which is also the same as their inner product)
+ ![image](https://user-images.githubusercontent.com/103464406/217038040-4492c00d-5503-4069-a301-7e5366543bf2.png)
+
 
 ### Collaborative Filtering:
