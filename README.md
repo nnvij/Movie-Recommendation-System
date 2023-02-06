@@ -11,6 +11,13 @@
     - Collaborative filtering uses the ratings and preferences of other users to recommend movies. It looks at the ratings of similar users and recommends movies that they have liked and rated highly.
 
 ## Problem Statement:
-- Using content based filetering, design a Movie recommender system which could recommend similar movies as per Movie genre and movie tags.
+- Using content based filetering, design a Movie recommender system which could recommend similar movies as per Movie Genre and Tags.
 - Based on collaborative filtering, design a movie recommender system using Singular value decomposition (SVD).
-- 
+
+### Tools used:
+- Python, Pandas (data processing), Matplotlib, Plotlyexpress
+
+## Data:
+- Movielens dataset is used for this project: https://grouplens.org/datasets/movielens/
+ ![image](https://user-images.githubusercontent.com/103464406/217036341-043b629e-bb7e-4ff6-adb2-0cae0b60b5c2.png)
+
