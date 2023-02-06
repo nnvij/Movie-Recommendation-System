@@ -48,6 +48,9 @@
 
 
 ### Collaborative Filtering:
+- We will use surprise library to create a recommender system.
+- Singular value decomposition (SVD) is a collaborative filtering method for movie recommendation. 
+- The aim is to provide users with movies’ recommendation from the latent features of item-user matrices
 
 #### Function recommendation_SVD:
 - Takes as input the userdId and the get_recommend> number of recommendations required.Default values userID=1, get_recommend =10
